@@ -1,0 +1,2 @@
+# Python installed 
+# Vs code or pychram
